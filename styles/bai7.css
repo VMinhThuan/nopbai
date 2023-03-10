@@ -1,0 +1,38 @@
+.p1 {
+    width: 850px;
+    text-indent: 1cm
+}
+
+.smile-picture {
+    width: 100px;
+    margin-left: -50px;
+}
+
+.p2 {
+    display: block;
+    margin-top: 20px;
+    width: 870px;
+}
+
+.p3 {
+    display: block;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+
+.smile-picture2 {
+    width: 100px;
+    margin-left: -12px;
+}
+
+.p4 {
+    display: block;
+    margin-left: 90px;
+    margin-top: -70px;
+    margin-bottom: 50px;
+}
+
+.smile-picture3 {
+    margin-right: 50px;
+    width: 100px;
+}
